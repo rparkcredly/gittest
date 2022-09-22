@@ -1,0 +1,3 @@
+b3 file b3-file1 first line
+b3 file b3-file1 second line
+
