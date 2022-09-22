@@ -1,1 +1,3 @@
 b3 file 2 new line
+b4 new line added in b4
+b4 another new line added in b4
