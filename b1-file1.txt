@@ -1,2 +1,0 @@
-b1 file 1, first line
-b1 file 1, second line
