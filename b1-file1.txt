@@ -1,2 +1,4 @@
 b1 file 1, first line
 b1 file 1, second line
+b2 file 1, add line in b2
+b2 file 1, another line in b2
